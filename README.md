@@ -28,7 +28,7 @@ Você pode receber atualizações das vagas no seu email ou via notificações d
 
 ### Siga nosso Twitter <img src="https://cloud.githubusercontent.com/assets/3603793/18564664/f0a4eb36-7b62-11e6-83f8-4eaebee644b0.png" alt="Twitter" width="30" />
 
-Todas as oportunidades serão automaticamente compartilhadas no [@salesforcebrvagas](https://twitter.com/salesforcebrvagas).
+Todas as oportunidades serão automaticamente compartilhadas no [@SalesforceVagas](https://twitter.com/SalesforceVagas).
 
 ### Outros repositórios de vagas
 
